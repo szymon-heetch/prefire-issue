@@ -1,0 +1,7 @@
+test_configuration:
+  - target: PrefireFramework
+  - simulator_device: "iPhone15,2"
+  - required_os: 16
+  - snapshot_devices:
+    - iPhone 14 Pro
+  - preview_default_enabled: false
